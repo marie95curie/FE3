@@ -1,0 +1,13 @@
+.card {
+    width: 170px;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 15px;
+    background-color: rgb(246, 240, 240);
+}
+
+.card button {
+    margin: 10px;
+    color: whitesmoke;
+    background-color: rgb(181, 180, 180);
+}
